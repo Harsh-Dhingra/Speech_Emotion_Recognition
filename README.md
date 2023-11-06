@@ -8,7 +8,7 @@ This repository contains code and resources for performing Speech Emotion Recogn
 
 ## Dataset
 
-- **RAVEDNESS Dataset**: [Link to the dataset](#https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio)
+- **RAVEDNESS Dataset**: [Link to the dataset](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio)
 
 Please download the dataset and place it in the appropriate directory before running the code.
 
