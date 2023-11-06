@@ -38,5 +38,7 @@ Follow these steps to run the code:
 
 We have obtained the following results:
 
-- **Confusion Matrix Neural Network**: ![image](https://github.com/Harsh-Dhingra/Speech_Emotion_Recognition/assets/30833991/e8e6045e-7265-4729-b10d-0f43cf3ae5dd)
-- **Confusion Matrix LSTM** : (![image](https://github.com/Harsh-Dhingra/Speech_Emotion_Recognition/assets/30833991/17172153-bb02-4430-8053-beb03be9ba1f)
+- **Confusion Matrix Neural Network**:
+-  ![image](https://github.com/Harsh-Dhingra/Speech_Emotion_Recognition/assets/30833991/e8e6045e-7265-4729-b10d-0f43cf3ae5dd)
+- **Confusion Matrix LSTM** :
+-  (![image](https://github.com/Harsh-Dhingra/Speech_Emotion_Recognition/assets/30833991/17172153-bb02-4430-8053-beb03be9ba1f)
